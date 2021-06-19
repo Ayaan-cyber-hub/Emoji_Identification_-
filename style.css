@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/P3sBn5T.jpg") ;
+     background-repeat: no-repeat;
+     background-size: cover ;
+     font-weight: bold;
+     color: rgb(255, 254, 254);
+     font-family: 'Odibee Sans', cursive;
+   }
+
+   .heading{
+     background-color: darkblue;
+     border-radius: 20px;
+   }
+
+   .Identify{
+     background-color: darkcyan;
+     border-radius: 15px;
+   }
+
+   .Capture{
+    background-color: darkturquoise;
+    border-radius: 15px;
+  }
